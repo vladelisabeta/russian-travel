@@ -1,16 +1,8 @@
-@font-face{
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  src: local("Inter"),
-  url("./vendor/fonts/Inter-Medium.woff") format("woff"),
-  url("./vendor/fonts/Inter-Medium.woff2") format("woff2");
-}
-@font-face{
-  font-family: "Inter";
-  font-style: bold;
-  font-weight: 600;
-  src: local("Inter"),
-  url("./vendor/fonts/Inter-Bold.woff") format("woff"),
-  url("./vendor/fonts/Inter-Bold.woff2") format("woff2");
-}
+/*PAGE*/
+@import url(../blocks/page/page.css);
+/*HEADER*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+
