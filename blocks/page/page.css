@@ -3,18 +3,19 @@
   font-style: normal;
   font-weight: 400;
   src: local("Inter"),
-  url("../../vendor/fonts/Inter-Medium.woff") format("woff"),
-  url("../../vendor/fonts/Inter-Medium.woff2") format("woff2");
+  url("../../vendor/fonts/Inter-Regular.woff") format("woff"),
+  url("../../vendor/fonts/Inter-Regular.woff2") format("woff2");
 }
 @font-face{
   font-family: "Inter";
   font-style: bold;
-  font-weight: 600;
+  font-weight: 900;
   src: local("Inter"),
-  url("../../vendor/fonts/Inter-Bold.woff") format("woff"),
-  url("../../vendor/fonts/Inter-Bold.woff2") format("woff2");
+  url("../../vendor/fonts/Inter-Black.woff") format("woff"),
+  url("../../vendor/fonts/Inter-Black.woff2") format("woff2");
 }
 .page{
   background-color: #2A2C2F;
   min-width: 1024px;
+  font-family: "Inter", "Arial", sans-serif;
 }
