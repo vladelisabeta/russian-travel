@@ -1,3 +1,7 @@
 .place__website{
   color: #fff;
 }
+.place__website:hover{
+  opacity: 0.8;
+  transition: linear 0.2s;
+}
