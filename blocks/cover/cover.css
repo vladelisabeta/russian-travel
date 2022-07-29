@@ -1,0 +1,11 @@
+.cover{
+  background: url(../../images/background_do_baikala.jpg) center no-repeat;
+  background-size: 1024px 640px;
+  height: 640px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+
+}
