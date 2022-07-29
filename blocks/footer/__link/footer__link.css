@@ -1,3 +1,6 @@
 .footer__link{
   display: inline-block;
 }
+.footer__link:not(:last-child){
+  margin-right: 18px;
+}
