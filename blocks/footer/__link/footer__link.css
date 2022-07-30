@@ -4,3 +4,9 @@
 .footer__link:not(:last-child){
   margin-right: 18px;
 }
+@media screen and (min-width:320px) and (max-width:768px){
+  .footer__link{
+    display: flex;
+    margin-top: 32px;
+  }
+}

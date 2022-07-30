@@ -10,3 +10,10 @@
   transition: linear 0.2s;
   opacity: 80%;
 }
+
+@media screen and (min-width:320px) and (max-width:768px){
+  .footer__link-text{
+    font-size: 24px;
+  }
+
+}
