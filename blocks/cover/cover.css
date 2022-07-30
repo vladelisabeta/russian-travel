@@ -9,3 +9,8 @@
   position: relative;
   width: 100%;
 }
+@media screen and (min-width:320px) and (max-width:768px){
+  .cover{
+    height: 200px;
+  }
+}

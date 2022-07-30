@@ -11,3 +11,8 @@
   opacity: 80%;
   transition: linear 0.2s;
 }
+@media screen and (min-width:320px) and (max-width:768px){
+  .cover__overlay{
+    height: 200px;
+  }
+}

@@ -3,7 +3,7 @@
   margin-left: 48px;
   color: #fff;
 }
-@media screen and (min-width:320px) and (max-width:768px){
+@media screen and (min-width:320px){
   .intro{
     margin-top: 64px;
     margin: 0 16px 0;
