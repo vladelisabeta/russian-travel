@@ -16,3 +16,10 @@
 .header__lang-link:not(:last-child){
   margin-right: 18px;
 }
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .header__lang-link{
+    font-size: 18px;
+  }
+
+}
