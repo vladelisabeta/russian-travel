@@ -20,3 +20,10 @@
 
   }
 }
+@media screen and (min-width:1280px) {
+  .cover{
+    height: 740px;
+    background-size: 1184px 740px;
+  }
+
+}

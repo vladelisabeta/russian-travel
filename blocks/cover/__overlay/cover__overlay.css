@@ -21,3 +21,9 @@
   height: 480px;
 }
 }
+@media screen and (min-width:1280px)  {
+  .cover__overlay{
+    height: 740px;
+  }
+
+}
