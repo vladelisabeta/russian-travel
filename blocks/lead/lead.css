@@ -1,3 +1,9 @@
 .lead{
   margin: 0 48px 0;
 }
+@media screen and (mid-width:320px) {
+  .lead{
+    margin: 0 16px 0;
+  }
+
+}
