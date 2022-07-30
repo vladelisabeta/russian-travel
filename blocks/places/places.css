@@ -3,3 +3,8 @@
   color: #fff;
   padding-bottom: 92px;
 }
+@media screen and (min-width:320px) and (max-width:768px){
+  .places{
+    margin: 0 16px 0;
+  }
+}
