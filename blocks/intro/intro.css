@@ -3,9 +3,14 @@
   margin-left: 48px;
   color: #fff;
 }
-@media screen and (min-width:320px){
+@media screen and (min-width:320px) and (max-width:767px){
   .intro{
     margin-top: 64px;
     margin: 0 16px 0;
+  }
+}
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .intro{
+    margin: 88px 24px 0;
   }
 }

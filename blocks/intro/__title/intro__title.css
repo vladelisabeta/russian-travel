@@ -6,10 +6,18 @@
   margin-top: 92px;
   margin-bottom: 0;
 }
-@media screen and (min-width:320px) and (max-width:768px){
+@media screen and (min-width:320px) and (max-width:767px){
   .intro__title{
     width: 288px;
     font-size: 32px;
     margin-top: 64px;
   }
+}
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .intro__title{
+    margin-top: 88px;
+    margin-bottom: 40px;
+    width: 720px;
+  }
+
 }
