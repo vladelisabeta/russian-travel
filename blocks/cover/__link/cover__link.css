@@ -4,7 +4,6 @@
   min-height: 640px;
   width: 1024px;
   display: block;
-  border: 1ps salmon solid;
   display: flex;
   flex-direction: column;
   justify-content: center;
