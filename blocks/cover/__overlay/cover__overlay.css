@@ -1,4 +1,4 @@
-.cover__overlay{
+.cover__overlay {
   opacity: 30%;
   background-color: #2A2C2F;
   position: absolute;
@@ -7,23 +7,26 @@
   top: 0;
   left: 0;
 }
-.cover__overlay:hover{
+
+.cover__overlay:hover {
   opacity: 80%;
   transition: linear 0.2s;
 }
-@media screen and (min-width:320px) and (max-width:767px){
-  .cover__overlay{
+
+@media screen and (min-width:320px) and (max-width:767px) {
+  .cover__overlay {
     height: 200px;
   }
 }
-@media screen and (min-width:768px) and (max-width:1023px){
-.cover__overlay{
-  height: 480px;
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .cover__overlay {
+    height: 480px;
+  }
 }
-}
-@media screen and (min-width:1280px)  {
-  .cover__overlay{
+
+@media screen and (min-width:1280px) {
+  .cover__overlay {
     height: 740px;
   }
-
 }

@@ -1,21 +1,23 @@
-.intro{
+.intro {
   margin-top: 92px;
   margin-left: 48px;
   color: #fff;
 }
-@media screen and (min-width:320px) and (max-width:767px){
-  .intro{
+
+@media screen and (min-width:320px) and (max-width:767px) {
+  .intro {
     margin: 64px 16px 0;
   }
 }
+
 @media screen and (min-width:768px) and (max-width:1023px) {
-  .intro{
+  .intro {
     margin: 88px 24px 0;
   }
 }
+
 @media screen and (min-width:1280px) {
-  .intro{
+  .intro {
     margin: 0 148px 0;
   }
-
 }

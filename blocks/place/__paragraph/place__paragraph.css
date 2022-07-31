@@ -1,4 +1,4 @@
-.place__paragraph{
+.place__paragraph {
   width: 456px;
   font-weight: 400;
   font-size: 18px;
@@ -6,18 +6,20 @@
   font-style: normal;
   margin: 0;
 }
-.place__paragraph:not(:last-child){
+
+.place__paragraph:not(:last-child) {
   margin-bottom: 27px;
 }
-@media screen and (min-width:320px) and (max-width:767px){
-  .place__paragraph{
+
+@media screen and (min-width:320px) and (max-width:767px) {
+  .place__paragraph {
     font-size: 16px;
     width: 288px;
   }
 }
-@media screen and (min-width:768px) and (max-width:1023px){
-  .place__paragraph{
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .place__paragraph {
     width: 352px;
-    
   }
 }

@@ -1,4 +1,4 @@
-.header{
+.header {
   margin: 0 48px 0;
   padding-top: 28px;
   padding-bottom: 48px;
@@ -7,14 +7,15 @@
   justify-content: space-between;
   position: relative;
 }
-@media screen and (min-width: 320px) and (max-width: 767px){
-  .header{
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .header {
     margin: 0 16px 0;
   }
 }
+
 @media screen and (min-width:768px) and (max-width:1279px) {
-  .header{
+  .header {
     margin: 0 24px 0;
   }
-
 }

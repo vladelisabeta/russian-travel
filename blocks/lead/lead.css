@@ -1,12 +1,11 @@
-
-@media screen and (min-width:1014px){
-  .lead{
+@media screen and (min-width:1014px) {
+  .lead {
     margin: 0 48px 0;
   }
 }
+
 @media screen and (min-width:1280px) {
-  .lead{
+  .lead {
     margin: 0 148px 0;
   }
-
 }

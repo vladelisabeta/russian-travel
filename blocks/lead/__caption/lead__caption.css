@@ -1,4 +1,4 @@
-.lead__caption{
+.lead__caption {
   color: #fff;
   font-weight: 400;
   font-size: 10px;
@@ -8,14 +8,15 @@
   margin-top: 8px;
   margin-bottom: 0;
 }
+
 @media screen and (min-width:320px) and (max-width:767px) {
-  .lead__caption{
+  .lead__caption {
     margin-left: 16px;
   }
 }
-@media screen and (min-width:768px) and (max-width:1023px){
-  .lead__caption{
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .lead__caption {
     margin-left: 24px;
   }
-
 }

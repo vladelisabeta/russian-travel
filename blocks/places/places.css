@@ -1,25 +1,27 @@
-.places{
+.places {
   margin: 0 48px 0;
   color: #fff;
   padding-bottom: 92px;
 }
 
-@media screen and (min-width:320px) and (max-width:767px){
-  .places{
+@media screen and (min-width:320px) and (max-width:767px) {
+  .places {
     margin: 0;
     padding-bottom: 66px;
   }
 }
-@media screen and (min-width:768px) and (max-width:1023px){
-  .places{
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .places {
     padding-bottom: 90px;
     margin: 0 24px 0;
   }
 }
+
 @media screen and (min-width:1280px) {
-  .places{
+  .places {
     margin: 0 148px 0;
   }
-
 }
+
 /*слова для отправки коммита*/
