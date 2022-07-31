@@ -1,7 +1,7 @@
 .cover {
   background: url(../../images/background_do_baikala.jpg) center no-repeat;
   background-size: 100%;
-  height: 640px;
+  min-height: 640px;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -12,19 +12,19 @@
 
 @media screen and (min-width:320px) and (max-width:767px) {
   .cover {
-    height: 200px;
+    min-height: 200px;
   }
 }
 
 @media screen and (min-width:768px) and (max-width:1023px) {
   .cover {
-    height: 480px;
+    min-height: 480px;
   }
 }
 
 @media screen and (min-width:1280px) {
   .cover {
-    height: 740px;
+    min-height: 740px;
     background-size: 1184px 740px;
   }
 }
