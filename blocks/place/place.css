@@ -1,8 +1,6 @@
 .place{
   margin: auto;
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: end;
+  align-items: flex-end;
 }

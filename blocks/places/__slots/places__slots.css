@@ -1,3 +1,7 @@
+.places__slots{
+  display: flex;
+}
+
 .places__slots:not(:last-child){
   margin-bottom: 80px;
 }
