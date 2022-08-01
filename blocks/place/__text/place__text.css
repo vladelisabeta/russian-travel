@@ -4,7 +4,6 @@
 
 @media screen and (min-width:320px) and (max-width:767px) {
   .place__text {
-    margin-left: 16px;
-    margin-top: 32px;
+    margin: 32px auto 0;
   }
 }

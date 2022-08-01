@@ -2,13 +2,13 @@
   background: url(../../../images/background_do_baikala.jpg) center no-repeat;
   background-size: 100%;
   min-height: 640px;
-  width: 1024px;
   display: block;
   display: flex;
   flex-direction: column;
   justify-content: center;
   color: #fff;
   text-decoration: none;
+  width: 100%;
 }
 
 .cover__link::before {
