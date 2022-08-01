@@ -4,3 +4,10 @@
   flex-wrap: wrap;
   align-items: flex-end;
 }
+@media screen and (min-width:320px) and (max-width:767px){
+  .place{
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
