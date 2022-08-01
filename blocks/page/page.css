@@ -2,6 +2,9 @@
   background-color: #2A2C2F;
   min-width: 1024px;
   font-family: "Inter", "Arial", sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (min-width: 320px) {
