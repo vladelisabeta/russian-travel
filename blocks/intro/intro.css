@@ -19,6 +19,7 @@
 @media screen and (min-width:1280px) {
   .intro {
     max-width: 1005px;
-    margin-left: 89.5px;
+    margin-left: 100px;
   }
 }
+/*89.5пх высчиталось браузером при автоматическом позиционировании image в lead( 148 - 48 = 100)*/
