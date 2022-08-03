@@ -16,3 +16,8 @@
     margin-left: 28px;
   }
 }
+@media screen and (min-width: 1280px){
+  .place__link-container{
+    margin: 40px;
+  }
+}

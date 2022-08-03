@@ -4,6 +4,7 @@
   line-height: 163%;
   font-style: normal;
   margin: 0;
+  width: 456px;
 }
 
 .place__paragraph:not(:last-child) {
@@ -24,5 +25,11 @@
 @media screen and (min-width:768px) and (max-width:1023px) {
   .place__paragraph {
     width: 353px;
+  }
+}
+
+@media screen and (min-width:1280px){
+  .place__paragraph{
+    width: 484px;
   }
 }

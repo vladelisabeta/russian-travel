@@ -20,6 +20,6 @@
 
 @media screen and (min-width:1280px) {
   .places {
-    margin: 0 148px 0;
+    margin: 0 calc(148px - (48*2)) 0;
   }
 }

@@ -24,6 +24,6 @@
 
 @media screen and (min-width:1280px) {
   .header {
-    margin: auto;
+    padding-bottom: 56px;
   }
 }

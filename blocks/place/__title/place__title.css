@@ -21,3 +21,9 @@
     width: 340px;
   }
 }
+
+@media screen and (min-width: 1280px){
+  .place__title{
+    width: 460px;
+  }
+}

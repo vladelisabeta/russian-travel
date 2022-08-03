@@ -7,6 +7,6 @@
 @media screen and (min-width:1280px) {
   .lead {
     margin: auto;
-    width: 1005px;
+    max-width: 1005px;
   }
 }
