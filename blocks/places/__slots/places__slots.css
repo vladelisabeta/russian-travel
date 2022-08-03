@@ -1,5 +1,6 @@
 .places__slots{
   display: flex;
+  margin: auto;
 }
 
 .places__slots:not(:last-child){
@@ -7,6 +8,10 @@
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
+  .places__slots{
+    width: 320px;
+  }
+
   .places__slots:not(:last-child){
     padding-bottom: 50px;
   }

@@ -3,12 +3,10 @@
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
-  outline: solid rgb(255, 221, 2) 1px;
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
   .place {
-    flex-wrap: wrap;
     align-items: flex-start;
     flex-direction: column;
   }
