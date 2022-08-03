@@ -1,5 +1,6 @@
 .place__card {
   display: flex;
+  outline: solid rgb(0, 255, 89) 1px;
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {

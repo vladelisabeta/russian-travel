@@ -2,6 +2,7 @@
   margin: 0 48px 0;
   color: #fff;
   padding-bottom: 92px;
+  outline: rgb(3, 234, 255) solid 1px;
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
