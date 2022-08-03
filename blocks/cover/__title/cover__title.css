@@ -2,7 +2,7 @@
   width: 560px;
   font-weight: 900;
   font-size: 72px;
-  line-height: 1;
+  line-height: 106%;
   text-align: center;
   margin: 0 auto 0;
   font-style: normal;
@@ -13,5 +13,6 @@
   .cover__title {
     font-size: 32px;
     width: 288px;
+    line-height: 109%;
   }
 }

@@ -9,6 +9,7 @@
   .footer {
     flex-wrap: wrap;
     margin-left: 16px;
+    flex-direction: column;
   }
 }
 
