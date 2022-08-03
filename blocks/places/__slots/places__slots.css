@@ -15,6 +15,6 @@
 
 @media screen and (min-width:768px) and (max-width:1023px) {
   .places__slots:not(:last-child){
-    padding-bottom: 73px;
+    padding-bottom: 75px;
   }
 }
