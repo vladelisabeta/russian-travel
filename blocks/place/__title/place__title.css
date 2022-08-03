@@ -2,7 +2,7 @@
   width: 440px;
   font-weight: 900;
   font-size: 72px;
-  line-height: 1.1;
+  line-height: 106%;
   font-style: normal;
   margin: 0 0 48px 0px
 }
@@ -19,6 +19,7 @@
   .place__title {
     font-size: 42px;
     width: 340px;
+    line-height: 110%;
 
   }
 }
