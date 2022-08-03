@@ -14,8 +14,9 @@
     flex-direction: column;
     flex-wrap: wrap;
     margin: 0 16px 0;
-    padding-top: 64px;
     gap: 12px;
+    padding-top: 0;
+    padding-bottom: 64px;
   }
 }
 

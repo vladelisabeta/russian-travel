@@ -2,20 +2,24 @@
   width: 456px;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 163%;
   font-style: normal;
   margin: 0;
 }
 
 .place__paragraph:not(:last-child) {
-  margin-bottom: 27px;
+  margin-bottom: 26px;
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
   .place__paragraph {
-    font-size: 16px;
+    font-size: 16px; 
     width: 288px;
     margin: auto;
+  }
+
+  .place__paragraph:not(:last-child) {
+    margin-bottom: 25px;
   }
 }
 
