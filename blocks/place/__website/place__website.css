@@ -2,11 +2,11 @@
   color: #fff;
   line-height: 122%;
   font-size: 18px;
+  transition: linear 0.2s;
 }
 
 .place__website:hover {
   opacity: 0.8;
-  transition: linear 0.2s;
 }
 
 @media screen and (min-width:320px) and (max-width:767px){

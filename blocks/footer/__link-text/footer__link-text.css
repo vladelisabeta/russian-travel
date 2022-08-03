@@ -5,10 +5,10 @@
   line-height: 112%;
   font-weight: 400;
   font-style: normal;
+  transition: linear 0.2s;
 }
 
 .footer__link-text:hover {
-  transition: linear 0.2s;
   opacity: 80%;
 }
 

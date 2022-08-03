@@ -20,11 +20,11 @@
   min-height: 640px;
   top: 0;
   left: 0;
+  transition: linear 0.2s;
 }
 
 .cover__link:hover::before {
   opacity: 80%;
-  transition: linear 0.2s;
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
