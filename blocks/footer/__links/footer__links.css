@@ -2,12 +2,15 @@
   list-style: none;
   margin: 92px 0 24px;
   padding: 0;
+  display: flex;
+  flex-direction: row;
 }
 
 @media screen and (min-width:320px) and (max-width:767px) {
   .footer__links {
     margin-top: 64px;
     margin-bottom: 0;
+    flex-direction: column;
   }
 }
 
