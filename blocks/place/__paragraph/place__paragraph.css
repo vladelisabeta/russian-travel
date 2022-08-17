@@ -27,6 +27,10 @@
     max-width: 352px;
     font-size: 16px;
   }
+
+  .place__paragraph:not(:last-child) {
+    margin-bottom: 25px;
+  }
 }
 
 @media screen and (min-width:1280px) {
