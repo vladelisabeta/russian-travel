@@ -5,10 +5,9 @@
 @media screen and (min-width:320px) and (max-width:767px) {
   .footer__item {
     display: flex;
-    margin-top: 32px;
   }
 
-  .footer__item:not(:last-child) {
+  .footer__item:not(:first-child) {
     margin-top: 32px;
   }
 }
